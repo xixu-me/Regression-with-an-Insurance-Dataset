@@ -18,7 +18,7 @@ This project implements a neural network model to predict insurance premium amou
 ## Project Structure
 
 ```plaintext
-project/
+insurance-premium/
 │
 ├── data/
 │   ├── train.csv
